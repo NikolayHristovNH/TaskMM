@@ -1,0 +1,11 @@
+C:\Users\NikolayHristov\Desktop\TaskMM\TaskMM\bin\Debug\netcoreapp2.2\TaskMM.deps.json
+C:\Users\NikolayHristov\Desktop\TaskMM\TaskMM\bin\Debug\netcoreapp2.2\TaskMM.runtimeconfig.json
+C:\Users\NikolayHristov\Desktop\TaskMM\TaskMM\bin\Debug\netcoreapp2.2\TaskMM.runtimeconfig.dev.json
+C:\Users\NikolayHristov\Desktop\TaskMM\TaskMM\bin\Debug\netcoreapp2.2\TaskMM.dll
+C:\Users\NikolayHristov\Desktop\TaskMM\TaskMM\bin\Debug\netcoreapp2.2\TaskMM.pdb
+C:\Users\NikolayHristov\Desktop\TaskMM\TaskMM\obj\Debug\netcoreapp2.2\TaskMM.csprojAssemblyReference.cache
+C:\Users\NikolayHristov\Desktop\TaskMM\TaskMM\obj\Debug\netcoreapp2.2\TaskMM.csproj.CoreCompileInputs.cache
+C:\Users\NikolayHristov\Desktop\TaskMM\TaskMM\obj\Debug\netcoreapp2.2\TaskMM.AssemblyInfoInputs.cache
+C:\Users\NikolayHristov\Desktop\TaskMM\TaskMM\obj\Debug\netcoreapp2.2\TaskMM.AssemblyInfo.cs
+C:\Users\NikolayHristov\Desktop\TaskMM\TaskMM\obj\Debug\netcoreapp2.2\TaskMM.dll
+C:\Users\NikolayHristov\Desktop\TaskMM\TaskMM\obj\Debug\netcoreapp2.2\TaskMM.pdb
